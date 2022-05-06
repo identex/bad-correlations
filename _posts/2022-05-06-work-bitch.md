@@ -5,4 +5,4 @@ date: 2022-03-26
 categories: ["culture", "economy"]
 ---
 
-![Unemployment Drops after Britney Spears releases "Work Bitch"](/bad-correlations/images/workbitch.png)
+![Unemployment Drops after Britney Spears releases "Work Bitch"](/bad-correlations/images/workbitch.jpg)

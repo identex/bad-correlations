@@ -28,7 +28,7 @@ Be sure to include this at the very top of your file:
 ---
 layout: post
 title: Unemployment Drops after Britney Spears releases "Work Bitch"
-date: 2022-03-26
+date: 2022-05-06
 categories: ["culture", "economy"]
 ---
 ```
@@ -43,4 +43,4 @@ And be sure to include an image! You can add images to the `/images/` folder, an
 
 Which will look like:
 
-![your alt text](/bad-correlations/images/workbitch.png)
+![your alt text](/bad-correlations/images/workbitch.jpg)
